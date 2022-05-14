@@ -1,6 +1,6 @@
 # Github_profile
   You can preview project by visiting this link: 
-  https://rakeshcharpe.github.io/Github_profile/
+  https://varis1807.github.io/Github_profile/
 ## Features:
 
 1. Search by name
@@ -29,7 +29,7 @@
 4. Add a reference(remote) to the original repository.
 
     ```
-    git remote add upstream https://github.com/RakeshCharpe/Github_profile.git
+    git remote add upstream https://github.com/varis1807/Github_profile
     ```
 
 5. Check the remotes for this repository.
